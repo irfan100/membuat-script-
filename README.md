@@ -1,10 +1,10 @@
 Cukup tulis gan ditermux klian
 
-#PKG update
+#Pkg update
 
-#PKG upgrade
+#pkg upgrade
 
-#PKG install python2
+#pkg install python2
 
 #Pip2 install mechanize
 
